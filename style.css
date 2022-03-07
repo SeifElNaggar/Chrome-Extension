@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+input{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+    height: 30px;
+    border: 1px solid #5f9341;
+}
+button{
+    margin-top: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+    color: white;
+    background-color: #5f9341;
+    border: none;
+    font-weight: bold;
+}
+#deleteEl{
+    background-color: white;
+    color: #5f9341;
+    border: 1px solid #5f9341;
+}
